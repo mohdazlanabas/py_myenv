@@ -1,0 +1,5 @@
+python3 -m venv <env name>
+go into <env Name>
+source bin/activate
+deactivate 
+
